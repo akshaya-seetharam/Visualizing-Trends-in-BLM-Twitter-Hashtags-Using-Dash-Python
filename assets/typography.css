@@ -1,0 +1,13 @@
+body {
+    font-family:  "Times New Roman", Times, serif;
+    
+    background-color: black;
+    
+}
+h1, h2, h3, h5, h6 {
+    color: hotpink
+}
+
+h4{
+    color: white
+}
